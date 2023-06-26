@@ -1,4 +1,4 @@
-# JAXRS_Database_Example
+# JAXRS_Example_Database
 > A RESTful API with pooled database connection
 
 This simple RESTful API exposes data taken from an external database via a pooled JDBC connection.
